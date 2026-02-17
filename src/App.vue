@@ -5,15 +5,15 @@
   <div class="page">
     <header class="hero">
       <div class="hero-content">
-        <p class="eyebrow">������վ �� Portfolio</p>
-        <h1>�������</h1>
-        <p class="subtitle">ǰ�˹���ʦ / ��ƹ���ʦ / ��Ʒ����ʦ</p>
+        <p class="eyebrow">个人网站 · Portfolio</p>
+        <h1>你的名字</h1>
+        <p class="subtitle">前端工程师 / 设计工程师 / 产品工程师</p>
         <p class="intro">
-          ��רע�ڰѸ����뷨�������������ʸеĲ�Ʒ���顣
-          ����չʾ�ҵ���Ŀ����������ϵ��ʽ��
+          我专注于把复杂想法做成清晰、有质感的产品体验。
+          这里展示我的项目、技能与联系方式。
         </p>
         <div class="cta">
-          <a class="btn primary" href="mailto:you@email.com">��ϵ��</a>
+          <a class="btn primary" href="mailto:you@email.com">联系我</a>
           <a class="btn ghost" href="https://github.com/yourname" target="_blank">GitHub</a>
         </div>
       </div>
@@ -21,8 +21,8 @@
       <div class="hero-card">
         <div class="avatar">YN</div>
         <div class="card-meta">
-          <div class="role">ǰ�� / ȫջ</div>
-          <div class="location">�й� �� �Ϻ�</div>
+          <div class="role">前端 / 全栈</div>
+          <div class="location">中国 · 上海</div>
         </div>
         <div class="tag-row">
           <span class="tag">Vue</span>
@@ -33,66 +33,66 @@
     </header>
 
     <section id="about" class="section">
-      <h2>������</h2>
+      <h2>关于我</h2>
       <p>
-        ���ó���ҵ��Ŀ���������⸴�����Ⲣ��ظ����������뽻����
-        �����ϸ�ڡ����ܺͿ�ά�����г���׷��
+        我擅长从业务目标出发，拆解复杂问题并落地高质量界面与交互。
+        对设计细节、性能和可维护性有持续追求。
       </p>
     </section>
 
     <section id="projects" class="section">
-      <h2>��Ŀ</h2>
+      <h2>项目</h2>
       <div class="grid">
         <article class="card">
-          <h3>��Ŀ A</h3>
-          <p>һ�仰������Ŀ���㣬��������ת���ʻ��Ż����̡�</p>
+          <h3>项目 A</h3>
+          <p>一句话描述项目亮点，例如提升转化率或优化流程。</p>
           <div class="card-foot">
-            <span>Vue �� Vite �� Pinia</span>
-            <a href="#" target="_blank">�鿴</a>
+            <span>Vue · Vite · Pinia</span>
+            <a href="#" target="_blank">查看</a>
           </div>
         </article>
         <article class="card">
-          <h3>��Ŀ B</h3>
-          <p>һ�仰������Ŀ���㣬����� 0 �� 1 ������</p>
+          <h3>项目 B</h3>
+          <p>一句话描述项目亮点，例如从 0 到 1 构建。</p>
           <div class="card-foot">
-            <span>Node �� TS �� Postgres</span>
-            <a href="#" target="_blank">�鿴</a>
+            <span>Node · TS · Postgres</span>
+            <a href="#" target="_blank">查看</a>
           </div>
         </article>
         <article class="card">
-          <h3>��Ŀ C</h3>
-          <p>һ�仰������Ŀ���㣬������������ 40%��</p>
+          <h3>项目 C</h3>
+          <p>一句话描述项目亮点，例如性能提升 40%。</p>
           <div class="card-foot">
-            <span>SSR �� SEO �� CI/CD</span>
-            <a href="#" target="_blank">�鿴</a>
+            <span>SSR · SEO · CI/CD</span>
+            <a href="#" target="_blank">查看</a>
           </div>
         </article>
       </div>
     </section>
 
     <section id="skills" class="section">
-      <h2>����</h2>
+      <h2>技能</h2>
       <div class="pill-grid">
         <span class="pill">HTML/CSS</span>
         <span class="pill">Vue / React</span>
         <span class="pill">TypeScript</span>
         <span class="pill">Node.js</span>
         <span class="pill">Figma</span>
-        <span class="pill">�����Ż�</span>
+        <span class="pill">性能优化</span>
       </div>
     </section>
 
     <section id="contact" class="section contact">
-      <h2>��ϵ</h2>
-      <p>������������������Ŀ����ӭ��ϵ�ҡ�</p>
+      <h2>联系</h2>
+      <p>如果你想合作或聊聊项目，欢迎联系我。</p>
       <div class="cta">
-        <a class="btn primary" href="mailto:you@email.com">�����ʼ�</a>
+        <a class="btn primary" href="mailto:you@email.com">发送邮件</a>
         <a class="btn ghost" href="https://www.linkedin.com/in/yourname" target="_blank">LinkedIn</a>
       </div>
     </section>
 
     <footer class="footer">
-      <span>? 2026 �������</span>
+      <span>? 2026 你的名字</span>
       <span>Built with Vue + Vite</span>
     </footer>
   </div>
